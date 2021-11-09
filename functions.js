@@ -73,3 +73,14 @@ console.log('Object Car after function: ', dodgeRam);
 addNewField('year', '2013');
 console.log('Object Car after add field: ', Car);
 
+
+
+
+
+
+
+
+
+
+
+
